@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1C3307",
+        "titleBar.activeBackground": "#28480A",
+        "titleBar.activeForeground": "#F6FDF0"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode": true
+    },
+    "hide-files.files": [
+        ".vscode"
+    ]
+}
